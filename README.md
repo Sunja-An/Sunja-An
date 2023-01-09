@@ -2,4 +2,4 @@
 - 👀 I’m interested in Security.
 - 🌱 I’m currently learning `System hacking`, `Assembly Language`, `C`, `C++`, `Python`
 - 📫 Sunja's Velog : https://velog.io/@fellin1919
-- 🤗 Contact : `fellin1919@naver.com`
+- 🤗 Contact : `sunja1472@gmail.com`
