@@ -5,6 +5,9 @@
 
 ![Styled-components](https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white")
 
+![Babel](https://img.shields.io/badge/Babel-#F9DC3E?style=for-the-badge&logo=Babel&logoColor=%F9DC3E")
+
+
 <!--
 **Sunja-An/Sunja-An** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
