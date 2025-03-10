@@ -1,17 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=70:EDE8E2,100:FFFAFA&height=300&section=header&text=SONU&fontSize=90&fontColor=FFFFFF)
 
-<div align=center>
-
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunja-An&show_icons=true&theme=radical)
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/SONU)](https://leetcode.com/u/sonujp/)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunja-An&layout=compact&theme=dark)
-
-<div align=center>
-
 ## Technology Skill
 
 ### FRONTEND
