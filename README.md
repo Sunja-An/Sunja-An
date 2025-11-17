@@ -2,13 +2,16 @@
 
 # Hi there, I'm SUNWOO AN 😊
 
-- I want to develop more happily than anyone else.
+> Great software is built by people who support each other's growth.
+
+- I develop to grow, and I grow to help others develop.
 - I can speak
   - Korean🇰🇷 ( Native )
   - Japanese🇯🇵 ( Native )
     - JLPT N2 ( 単語-36/読解-56/聴解-58 ) 
   - English🇺🇸 ( Business )
     - TOEFL ( R-22/L-13/S-22/W-22 ) 
+- Currently, I'm interested in **Java, Java SpringBoot, MySQL, Redis!**
 
 ### My project
 
@@ -24,6 +27,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
