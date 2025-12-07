@@ -10,7 +10,8 @@
   - Japanese🇯🇵 ( Native )
     - JLPT N2 ( 単語-36/読解-56/聴解-58 ) 
   - English🇺🇸 ( Business )
-    - TOEFL ( R-22/L-13/S-22/W-22 ) 
+    - TOEFL ( R-22/L-13/S-22/W-22 )
+    - Opic IH
 - Currently, I'm interested in **Java, Java SpringBoot, MySQL, Redis!**
 
 ### My project
