@@ -18,7 +18,9 @@
 
 - [**🚀 Journey Planner**](https://github.com/kakao-tech-campus-3rd-step3/Team8_BE)
   - Development Date: 2025-09 ~ 2025-11
-
+- [**🔥 Jobmanri**](https://github.com/jobmanri/be)
+  - Development Date: 2025-11 ~
+  - [(Post) AOP Test with Java Proxy](https://github.com/jobmanri/be/discussions/39#discussion-9221073) 
 
 ### FRONTEND TECH SKILL
 
