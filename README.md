@@ -12,7 +12,3 @@
   - English🇺🇸 ( Business )
     - TOEFL ( R-22/L-13/S-22/W-22 )
     - Opic IH
-- Currently, I'm interested in **Java, Java SpringBoot, MySQL, Redis!**
-
-## Tech Blog
-![📃 Tech Blog](https://sunja-an.github.io/)
